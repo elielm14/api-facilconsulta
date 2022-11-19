@@ -24,8 +24,15 @@ export const profissionais = {
 };
 
 export const especialidades = [
-    "Cardiologista",
-    "Fisioterapeuta"
+    "Cardiologia",
+    "Fisioterapia",
+    "Odontologia",
+    "Enfermagem",
+    "Psicologia",
+    "Nutrição",
+    "Dermatologia",
+    "Psiquiatria",
+    "Cirurgia geral"
 ];
 
 export const estados = [
@@ -37,7 +44,7 @@ export const estados = [
 
 export const cidades = [
     {
-        "Pará": [
+        "pa": [
             "Belém",
             "Barcarena",
             "Ananindeua",
@@ -47,7 +54,7 @@ export const cidades = [
         ]
     },
     {
-        "São Paulo": [
+        "sp": [
             "São Paulo",
             "Campinas",
             "Guarulhos",
@@ -57,13 +64,13 @@ export const cidades = [
         ]
     },
     {
-        "Rio de Janeiro": [
+        "rj": [
             "Rio de Janeiro",
             "Belford Roxo"
         ]
     },
     {
-        "Maranhão": [
+        "ma": [
             "São Luiz",
             "Imperatriz"
         ]
