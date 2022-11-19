@@ -1,3 +1,5 @@
-export default function cidades(req, res) {
-    res.status(200).json({ cidade: 'cidades' })
+import { cidades } from "../../../dados"
+
+export default function cidade(req, res) {
+    res.status(200).json({ cidades })
 }

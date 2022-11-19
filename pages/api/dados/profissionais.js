@@ -1,3 +1,5 @@
-export default function profissionais(req, res) {
-    res.status(200).json({ nome: 'profissionais' })
+import { profissionais } from "../../../dados"
+
+export default function profissional(req, res) {
+    res.status(200).json({ profissionais })
 }

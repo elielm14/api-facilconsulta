@@ -1,3 +1,5 @@
-export default function estados(req, res) {
-    res.status(200).json({ estado: 'estados' })
+import { estados } from "../../../dados"
+
+export default function estado(req, res) {
+    res.status(200).json({ estados })
 }
