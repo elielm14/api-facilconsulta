@@ -31,21 +31,17 @@ export const profissionais = {
     ]
 };
 
-export const especialidades = {
-    "especialista": [
-        "Cardiologista",
-        "Fisioterapeuta"
-    ]
-};
+export const especialidades = [
+    "Cardiologista",
+    "Fisioterapeuta"
+];
 
-export const estados = {
-    "estado": [
-        "Pará",
-        "São Paulo",
-        "Rio de Janeiro",
-        "Maranhão"
-    ]
-};
+export const estados = [
+    "Pará",
+    "São Paulo",
+    "Rio de Janeiro",
+    "Maranhão"
+];
 
 export const cidades = [
     {
@@ -66,6 +62,18 @@ export const cidades = [
             "São Bernardo do Campo",
             "Osasco",
             "Santo André",
+        ]
+    },
+    {
+        "Rio de Janeiro": [
+            "Rio de Janeiro",
+            "Belford Roxo"
+        ]
+    },
+    {
+        "Maranhão": [
+            "São Luiz",
+            "Imperatriz"
         ]
     }
 ];
