@@ -1,4 +1,4 @@
-import { estados } from "../../dadosBase/dados"
+import { estados } from "../dados"
 
 export default function estado(req, res) {
     res.status(200).json({ estados })
