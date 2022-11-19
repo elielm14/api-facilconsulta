@@ -1,11 +1,12 @@
 export const profissionais = [
     {
-        "profissioal": "Eliel Maia"
+        "profissioal": "Eliel Maia",
+        "cpf": "74773217006"
     }
 ];
 export const especialidades = [
     {
-        "especialidade": "Cardiologista"
+        "especialista": "Cardiologista"
     }
 ];
 export const estados = [
