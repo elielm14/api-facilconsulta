@@ -6,13 +6,20 @@ export const profissionais = [
 ];
 export const especialidades = [
     {
-        "especialista": "Cardiologista"
+        "especialista": [
+            "Cardiologista",
+            "Fisioterapeuta"
+        ]
     }
 ];
 export const estados = [
     {
-        "estado": "Pará",
-        "estado": "São Paulo"
+        "estado": [
+            "Pará",
+            "São Paulo",
+            "Rio de Janeiro",
+            "Maranhão"
+        ]
     }
 ];
 export const cidades = [
