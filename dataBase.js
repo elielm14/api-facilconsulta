@@ -1,32 +1,24 @@
 export const profissionais = {
-    "profissional": [
+    "nome": [
         {
-            "nome": {
-                "Mario Lima Nunes": {
-                    "cpf": "74773217006"
-                }
-            },
+            "Mario Lima Nunes": {
+                "cpf": "74773217006"
+            }
         },
         {
-            "nome": {
-                "Jorge Augusto dos Santos": {
-                    "cpf": "60627576079"
-                }
-            },
+            "Jorge Augusto dos Santos": {
+                "cpf": "60627576079"
+            }
         },
         {
-            "nome": {
-                "Yuri Alberto Costa": {
-                    "cpf": "60627576079"
-                }
-            },
+            "Yuri Alberto Costa": {
+                "cpf": "60627576079"
+            }
         },
         {
-            "nome": {
-                "Tamile Costa Moura": {
-                    "cpf": "87284871091"
-                }
-            },
+            "Tamile Costa Moura": {
+                "cpf": "87284871091"
+            }
         },
     ]
 };
