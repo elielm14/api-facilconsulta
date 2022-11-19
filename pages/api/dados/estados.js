@@ -1,0 +1,3 @@
+export default function estados(req, res) {
+    res.status(200).json({ estado: 'estados' })
+}
